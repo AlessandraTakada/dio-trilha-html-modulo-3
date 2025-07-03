@@ -48,3 +48,9 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+.author-image{  
+    border-style: solid;  
+    border-width: 1px;
+    border-color: lightgrey;
+    padding: 15px;
+}
